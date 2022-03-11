@@ -1,0 +1,41 @@
+body{
+    max-width: 50vw;
+    text-align:left;
+    margin:auto;
+    font-family:"Helvetica", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #7ee787;
+    background-color:#21262d;
+    padding:100px 0;
+}
+
+a{
+    color: #7ee787;
+    font-weight:bold;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    color: #aff5b4;
+    text-align:center
+}
+
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    color: #aff5b4;
+    text-align:left;
+}
+
+button{
+    background-color:#484f58;
+    padding: 5px 5px;
+}
+
+img{
+    height:auto;
+    width: 500px;
+    align-self: center;
+}
